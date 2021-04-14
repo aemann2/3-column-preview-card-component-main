@@ -8,6 +8,10 @@ module.exports = {
         sedans: "url('./images/icon-sedans.svg')",
         suvs: "url('./images/icon-suvs.svg')",
       }),
+      gridTemplateColumns: {
+        mobile: 'repeat(1, minmax(300px, 500px))',
+        main: 'repeat(3, minmax(0, 1280px))',
+      },
       colors: {
         primary: {
           orange: 'hsl(31, 77%, 52%)',
@@ -26,7 +30,9 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      borderWidth: ['hover'],
+    },
   },
   plugins: [],
 };
