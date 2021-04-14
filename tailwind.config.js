@@ -10,7 +10,7 @@ module.exports = {
       }),
       gridTemplateColumns: {
         mobile: 'repeat(1, minmax(300px, 500px))',
-        main: 'repeat(3, minmax(0, 1280px))',
+        main: 'repeat(3, minmax(0, 400px))',
       },
       colors: {
         primary: {

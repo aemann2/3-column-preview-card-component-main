@@ -28700,7 +28700,7 @@ video {
 }
 
 .grid-cols-main{
-  grid-template-columns: repeat(3, minmax(0, 1280px));
+  grid-template-columns: repeat(3, minmax(0, 400px));
 }
 
 .auto-cols-auto{
@@ -60951,7 +60951,7 @@ video {
   }
 
   .sm\:grid-cols-main{
-    grid-template-columns: repeat(3, minmax(0, 1280px));
+    grid-template-columns: repeat(3, minmax(0, 400px));
   }
 
   .sm\:auto-cols-auto{
@@ -93045,7 +93045,7 @@ video {
   }
 
   .md\:grid-cols-main{
-    grid-template-columns: repeat(3, minmax(0, 1280px));
+    grid-template-columns: repeat(3, minmax(0, 400px));
   }
 
   .md\:auto-cols-auto{
@@ -125139,7 +125139,7 @@ video {
   }
 
   .lg\:grid-cols-main{
-    grid-template-columns: repeat(3, minmax(0, 1280px));
+    grid-template-columns: repeat(3, minmax(0, 400px));
   }
 
   .lg\:auto-cols-auto{
@@ -157233,7 +157233,7 @@ video {
   }
 
   .xl\:grid-cols-main{
-    grid-template-columns: repeat(3, minmax(0, 1280px));
+    grid-template-columns: repeat(3, minmax(0, 400px));
   }
 
   .xl\:auto-cols-auto{
@@ -189327,7 +189327,7 @@ video {
   }
 
   .\32xl\:grid-cols-main{
-    grid-template-columns: repeat(3, minmax(0, 1280px));
+    grid-template-columns: repeat(3, minmax(0, 400px));
   }
 
   .\32xl\:auto-cols-auto{
