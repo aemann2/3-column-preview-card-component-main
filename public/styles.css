@@ -4375,6 +4375,18 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-luxury{
+  background-image: url('./images/icon-luxury.svg');
+}
+
+.bg-sedans{
+  background-image: url('./images/icon-sedans.svg');
+}
+
+.bg-suvs{
+  background-image: url('./images/icon-suvs.svg');
+}
+
 .from-transparent{
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -11699,11 +11711,11 @@ video {
 }
 
 .font-body{
-  font-family: "Big Shoulders Display";
+  font-family: "Lexend Deca";
 }
 
 .font-heading{
-  font-family: "Lexend Deca";
+  font-family: "Big Shoulders Display";
 }
 
 .font-thin{
@@ -36519,6 +36531,18 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .sm\:bg-luxury{
+    background-image: url('./images/icon-luxury.svg');
+  }
+
+  .sm\:bg-sedans{
+    background-image: url('./images/icon-sedans.svg');
+  }
+
+  .sm\:bg-suvs{
+    background-image: url('./images/icon-suvs.svg');
+  }
+
   .sm\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -43843,11 +43867,11 @@ video {
   }
 
   .sm\:font-body{
-    font-family: "Big Shoulders Display";
+    font-family: "Lexend Deca";
   }
 
   .sm\:font-heading{
-    font-family: "Lexend Deca";
+    font-family: "Big Shoulders Display";
   }
 
   .sm\:font-thin{
@@ -68493,6 +68517,18 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .md\:bg-luxury{
+    background-image: url('./images/icon-luxury.svg');
+  }
+
+  .md\:bg-sedans{
+    background-image: url('./images/icon-sedans.svg');
+  }
+
+  .md\:bg-suvs{
+    background-image: url('./images/icon-suvs.svg');
+  }
+
   .md\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -75817,11 +75853,11 @@ video {
   }
 
   .md\:font-body{
-    font-family: "Big Shoulders Display";
+    font-family: "Lexend Deca";
   }
 
   .md\:font-heading{
-    font-family: "Lexend Deca";
+    font-family: "Big Shoulders Display";
   }
 
   .md\:font-thin{
@@ -100467,6 +100503,18 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .lg\:bg-luxury{
+    background-image: url('./images/icon-luxury.svg');
+  }
+
+  .lg\:bg-sedans{
+    background-image: url('./images/icon-sedans.svg');
+  }
+
+  .lg\:bg-suvs{
+    background-image: url('./images/icon-suvs.svg');
+  }
+
   .lg\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -107791,11 +107839,11 @@ video {
   }
 
   .lg\:font-body{
-    font-family: "Big Shoulders Display";
+    font-family: "Lexend Deca";
   }
 
   .lg\:font-heading{
-    font-family: "Lexend Deca";
+    font-family: "Big Shoulders Display";
   }
 
   .lg\:font-thin{
@@ -132441,6 +132489,18 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-luxury{
+    background-image: url('./images/icon-luxury.svg');
+  }
+
+  .xl\:bg-sedans{
+    background-image: url('./images/icon-sedans.svg');
+  }
+
+  .xl\:bg-suvs{
+    background-image: url('./images/icon-suvs.svg');
+  }
+
   .xl\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -139765,11 +139825,11 @@ video {
   }
 
   .xl\:font-body{
-    font-family: "Big Shoulders Display";
+    font-family: "Lexend Deca";
   }
 
   .xl\:font-heading{
-    font-family: "Lexend Deca";
+    font-family: "Big Shoulders Display";
   }
 
   .xl\:font-thin{
@@ -164415,6 +164475,18 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .\32xl\:bg-luxury{
+    background-image: url('./images/icon-luxury.svg');
+  }
+
+  .\32xl\:bg-sedans{
+    background-image: url('./images/icon-sedans.svg');
+  }
+
+  .\32xl\:bg-suvs{
+    background-image: url('./images/icon-suvs.svg');
+  }
+
   .\32xl\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -171739,11 +171811,11 @@ video {
   }
 
   .\32xl\:font-body{
-    font-family: "Big Shoulders Display";
+    font-family: "Lexend Deca";
   }
 
   .\32xl\:font-heading{
-    font-family: "Lexend Deca";
+    font-family: "Big Shoulders Display";
   }
 
   .\32xl\:font-thin{

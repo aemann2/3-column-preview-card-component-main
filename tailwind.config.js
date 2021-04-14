@@ -3,6 +3,11 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      backgroundImage: (theme) => ({
+        luxury: "url('./images/icon-luxury.svg')",
+        sedans: "url('./images/icon-sedans.svg')",
+        suvs: "url('./images/icon-suvs.svg')",
+      }),
       colors: {
         primary: {
           orange: 'hsl(31, 77%, 52%)',
@@ -15,8 +20,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        body: ['"Big Shoulders Display"'],
-        heading: ['"Lexend Deca"'],
+        body: ['"Lexend Deca"'],
+        heading: ['"Big Shoulders Display"'],
       },
     },
   },
