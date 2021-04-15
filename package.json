@@ -4,12 +4,20 @@
   "description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css",
+    "start": "snowpack dev",
+    "build": "snowpack build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
+    "@snowpack/plugin-build-script": "^2.1.0",
+    "@snowpack/plugin-postcss": "^1.2.2",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "postcss-cli": "^8.3.1",
+    "snowpack": "^3.3.1",
     "tailwindcss": "^2.1.1"
   }
 }
